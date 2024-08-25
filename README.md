@@ -10,7 +10,7 @@
 - Email : huzaifakambh102@gmail.com
 - 😄 Pronouns: ... Ali
 - ⚡ Fun fact: ...
-- - I love exploring new technologies and often spend my weekends experimenting with different coding challenges!  
+-  I love exploring new technologies and often spend my weekends experimenting with different coding challenges!  
 
 <!---
 Huzaifa-Ali-064/Huzaifa-Ali-064 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
